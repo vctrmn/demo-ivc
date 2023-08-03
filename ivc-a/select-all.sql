@@ -5,3 +5,8 @@
 -- COMMAND ----------
 
 SELECT * FROM sncf_ter_sample_database.sample_csv_file
+
+-- COMMAND ----------
+
+-- MAGIC %python
+-- MAGIC #TEST IVC_A MODIF
