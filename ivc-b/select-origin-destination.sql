@@ -1,6 +1,6 @@
 -- Databricks notebook source
 -- MAGIC %md
--- MAGIC ## IVC B - Demo of Databrick Repo
+-- MAGIC ## IVC B - Demo of Databrick Repo modification test
 
 -- COMMAND ----------
 
