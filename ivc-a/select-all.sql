@@ -1,6 +1,6 @@
 -- Databricks notebook source
 -- MAGIC %md
--- MAGIC ## IVC A - Demo of Databrick Repo test pour Loic
+-- MAGIC ## IVC A - Demo of Databrick Repo test pour Loic et Victor
 
 -- COMMAND ----------
 
